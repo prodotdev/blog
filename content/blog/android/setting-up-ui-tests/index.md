@@ -1,7 +1,7 @@
 ---
 title: Setting Up Jetpack Compose UI Tests with Hilt (DI) and Mockk
 date: "2022-11-14"
-description: "Setting up dependency injection to mock your services can feel like an endless"
+description: "Setting up dependency injection, and mocks isn't straightforward in Android. This guide will take you from a brand new project to writing, injecting, and mocking services for your Jetpack Compose app."
 ---
 
 This post will explain how to get started writing UI tests, with Dependency Injection (DI), and mocks (via Mockk) for a Jetpack Compose app. It uses the following versions:
